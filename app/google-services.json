@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659226590675",
+    "project_id": "koltlin-intermedio",
+    "storage_bucket": "koltlin-intermedio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659226590675:android:c84576ab08e83f90264326",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_intermedio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659226590675-h65rvn163t5n4ri657t0ridqub41rfq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3zq8UjSoz7437BdZBomGX875DjbUP7hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659226590675-h65rvn163t5n4ri657t0ridqub41rfq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
